@@ -4,7 +4,7 @@ title: "Microsoft Sentinel Setup"
 categories: misc
 ---
 
-This post is a continuation of https://google.com
+This post is a continuation of Azure Windows 11 VM setup
 
 
 ![Sentinel 01](/assets/sentinel-setup-01.png)
